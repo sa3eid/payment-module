@@ -1,3 +1,6 @@
+![example workflow](https://github.com/sa3eid/payment-module/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+
+
 - `composer Install`
 
 - `cp .env.example .env`

@@ -1,4 +1,4 @@
-![example workflow](https://github.com/sa3eid/payment-module/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+![] (https://github.com/sa3eid/payment-module/actions/workflows/build/badge.svg)
 
 
 - `composer Install`

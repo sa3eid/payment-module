@@ -1,4 +1,4 @@
-![](https://github.com/sa3eid/payment-module/actions/workflows/build/badge.svg)
+![](https://github.com/sa3eid/payment-module/workflows/build/badge.svg)
 
 
 - `composer Install`
@@ -9,3 +9,4 @@
 - `php artisan composer:install`
 - `php artisan migrate`
 - `php artisan passport:install`
+- `php artisan test`
